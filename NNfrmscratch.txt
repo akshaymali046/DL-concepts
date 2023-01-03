@@ -1,0 +1,3 @@
+nn from scrach -    https://github.com/dennybritz/nn-from-scratch
+stackexchange queston - https://stats.stackexchange.com/questions/211436/why-normalize-images-by-subtracting-datasets-image-mean-instead-of-the-current
+standfrord - https://cs231n.github.io/neural-networks-case-study/
